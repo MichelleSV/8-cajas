@@ -1,0 +1,30 @@
+div{
+	height: 40px;
+	width: 40px;
+	background-color: gray;
+	border: 0.5px solid black;
+	margin: 2px;
+	font-size: 0px;
+}
+.daddy{
+	width: 135px;
+	height:45px;
+}
+.hijo1{
+	display: inline-block;
+}
+.hijo2{
+	display: inline-block;
+}
+.hijo3{
+	display: inline-block;
+}
+.tio3{
+	display: inline-block;
+}
+.tio2{
+	display: inline-block;
+}
+.tio4{
+
+}
