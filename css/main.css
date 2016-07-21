@@ -10,21 +10,6 @@ div{
 	width: 135px;
 	height:45px;
 }
-.hijo1{
+.inlineblock{
 	display: inline-block;
-}
-.hijo2{
-	display: inline-block;
-}
-.hijo3{
-	display: inline-block;
-}
-.tio3{
-	display: inline-block;
-}
-.tio2{
-	display: inline-block;
-}
-.tio4{
-
 }
